@@ -8,3 +8,5 @@ For Git Learning
 3. To Learn Advance Terminologies
 
 4. Do Practices on Git and GitHub
+
+5. Additionally Learn GitHub Features
