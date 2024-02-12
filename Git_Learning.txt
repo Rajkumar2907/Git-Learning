@@ -10,3 +10,5 @@ For Git Learning
 4. Do Practices on Git and GitHub
 
 5. Additionally Learn GitHub Features
+
+6. For Branching Test
